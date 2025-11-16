@@ -94,15 +94,6 @@
 
 ---
 
-## 🚀 Projects Highlights (Optional – à compléter selon tes projets)
-
-- 🔹 **Project 1 – Cloud-based Web App**  
-- 🔹 **Project 2 – Machine Learning Model for Classification**  
-- 🔹 **Project 3 – Full-stack App with Angular & Node.js**  
-*(Je peux t’aider à remplir cette section si tu veux.)*
-
----
-
 ## ⭐ Thanks for visiting!
 
 Feel free to ⭐ **star** any project you like or reach out for collaboration!
