@@ -14,7 +14,7 @@
 - ☁️ Currently learning and building with **AWS, Docker, CI/CD pipelines, and scalable architectures**.
 - 🤖 Interested in **AI/ML**, computer vision, and data engineering.
 - 🚀 I love creating **efficient, scalable, and maintainable systems**.
-- 📫 Reach me at: **faresibnothman@gmail.com**
+- 📫 Reach me at: **benothmanfares0@gmail.com**
 
 ---
 
